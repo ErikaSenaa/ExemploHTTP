@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3DS\\PAM2\\ExemploHttp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\views\\postsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\views\\postsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\views\\postsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\views\\postsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\viewmodel\\photosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\viewmodel\\photosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\views\\photosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\views\\photosview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\views\\photosview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\views\\photosview.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\exemplohttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\exemplohttp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\services\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\services\\restservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|d:\\3ds\\pam2\\exemplohttp\\exemplohttp\\viewmodel\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5F04EA0-31FC-49B1-BE2F-5A18AB315113}|ExemploHttp\\ExemploHttp.csproj|solutionrelative:exemplohttp\\viewmodel\\postviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\App.xaml",
+              "RelativeDocumentMoniker": "ExemploHttp\\App.xaml",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\App.xaml",
+              "RelativeToolTip": "ExemploHttp\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T15:37:13.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhotosView.xaml",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml",
+              "RelativeDocumentMoniker": "ExemploHttp\\Views\\PhotosView.xaml",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml",
+              "RelativeToolTip": "ExemploHttp\\Views\\PhotosView.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T15:35:38.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "ExemploHttp\\Resources\\Styles\\Styles.xaml",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "ExemploHttp\\Resources\\Styles\\Styles.xaml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-20T15:33:36.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotosView.xaml.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\Views\\PhotosView.xaml.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PhotosView.xaml.cs",
+              "RelativeToolTip": "ExemploHttp\\Views\\PhotosView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:59:36.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotosViewModel.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModel\\PhotosViewModel.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\ViewModel\\PhotosViewModel.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModel\\PhotosViewModel.cs",
+              "RelativeToolTip": "ExemploHttp\\ViewModel\\PhotosViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:50:39.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\Models\\Photo.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Models\\Photo.cs",
+              "RelativeToolTip": "ExemploHttp\\Models\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:43:55.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsView.xaml.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PostsView.xaml.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\Views\\PostsView.xaml.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PostsView.xaml.cs",
+              "RelativeToolTip": "ExemploHttp\\Views\\PostsView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T15:04:31.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostsView.xaml",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PostsView.xaml",
+              "RelativeDocumentMoniker": "ExemploHttp\\Views\\PostsView.xaml",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Views\\PostsView.xaml",
+              "RelativeToolTip": "ExemploHttp\\Views\\PostsView.xaml",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-30T15:24:17.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExemploHttp.csproj",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\ExemploHttp.csproj",
+              "RelativeDocumentMoniker": "ExemploHttp\\ExemploHttp.csproj",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\ExemploHttp.csproj",
+              "RelativeToolTip": "ExemploHttp\\ExemploHttp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T15:34:20.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RestService.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Services\\RestService.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\Services\\RestService.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Services\\RestService.cs",
+              "RelativeToolTip": "ExemploHttp\\Services\\RestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T14:49:43.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\Models\\Post.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\Models\\Post.cs",
+              "RelativeToolTip": "ExemploHttp\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:17:09.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PostViewModel.cs",
+              "DocumentMoniker": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModel\\PostViewModel.cs",
+              "RelativeDocumentMoniker": "ExemploHttp\\ViewModel\\PostViewModel.cs",
+              "ToolTip": "D:\\3DS\\PAM2\\ExemploHttp\\ExemploHttp\\ViewModel\\PostViewModel.cs",
+              "RelativeToolTip": "ExemploHttp\\ViewModel\\PostViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:51:00.178Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
